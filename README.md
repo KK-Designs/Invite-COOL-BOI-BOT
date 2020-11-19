@@ -82,4 +82,4 @@ bans the given user.
 ---
 
 # IMPORTANT NOTES
-*This bot was built for the [COOL BOIS](https://discord.gg/wdjxthF). The welcome channel **MUST** be called `welcome-and-goodbye` and the muted role must also be called `Muted`.* IF you want message loggging crate a log channel called `server-logs` New commands coming in soon!
+*This bot was built for the [COOL BOIS](https://discord.gg/wdjxthF "Join the discord server (not support)"). The welcome channel **MUST** be called `welcome-and-goodbye` and the muted role must also be called `Muted`.* IF you want message loggging crate a log channel called `server-logs` New commands coming in soon!
