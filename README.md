@@ -1,11 +1,23 @@
 # COOL-BOI-BOT 🟢 | [INVITE](https://discord.com/oauth2/authorize?client_id=769415264306987068&scope=bot&permissions=8 "Invite us now!") | [SEE BOT STATUS](https://discord.gg/TnAUDWAh2d "SEE BOT STATUS")
 
+---
+
+```7 guilds```
+
+---
+
+---
+
+Prefix: ``!``
+
+---
+
 Hello, and thanks for inviting COOL BOI BOT! Here are some commands:
 
 ---
 
 ## Commands
- 
+  
  
 ### General Commands
  
