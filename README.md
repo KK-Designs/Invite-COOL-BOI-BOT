@@ -2,11 +2,7 @@
 
 ---
 
-```7 guilds```
-
----
-
-Prefix: ``!``
+Prefix: ``!`` | `7 guilds`
 
 ---
 
