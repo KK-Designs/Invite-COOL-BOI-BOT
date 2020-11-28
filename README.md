@@ -89,7 +89,7 @@ unmutes the specified user
 kicks the given user
 
 **!ban**
-bans the given user. 
+bans the given user with reason. (i.e. `!ban @AnnoyingUser123 spamming`)
 
 ---
 
