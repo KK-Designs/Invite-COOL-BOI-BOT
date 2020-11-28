@@ -2,7 +2,7 @@
 
 ---
 
-Prefix: ``!`` | `7 guilds`
+Prefix: ``!`` | `9 guilds`
 
 ---
 
@@ -60,8 +60,14 @@ Rickrolls everyone in the voice channel your in
 **!duck**
 Gets a random picture of a duck!
 
-**!num10000**
-Gets the numbers 1-10000!
+**!num**
+Gets the numbers you specify! (not all numbers are supported)
+
+**!channel**
+Gets the channel info you specify by ID! If none specified gets current channel info
+
+**!info**
+Gets some server info
 
 **!coinflip**
 flips a coin!
