@@ -1,8 +1,8 @@
-# COOL-BOI-BOT 🟢 | [INVITE](https://discord.com/oauth2/authorize?client_id=769415264306987068&scope=bot&permissions=8 "Invite us now!") | [SEE BOT STATUS](https://discord.gg/TnAUDWAh2d "SEE BOT STATUS")
+# COOL-BOI-BOT :no_entry: | [INVITE](https://discord.com/oauth2/authorize?client_id=769415264306987068&scope=bot&permissions=8 "Invite us now!") | [SEE BOT STATUS](https://discord.gg/TnAUDWAh2d "SEE BOT STATUS")
 
 ---
 
-Prefix: ``!`` | `8 guilds`
+Prefix: ``!`` | `9 guilds`
 
 ---
 
