@@ -2,7 +2,7 @@
 
 ---
 
-Prefix: ``!`` | `9 guilds`
+Prefix: ``!`` | `10 guilds`
 
 ---
 
@@ -71,7 +71,9 @@ Gets some server info
 
 **!coinflip**
 flips a coin!
- 
+
+**!who-is**
+Get a users info by mention or id!
  
 ### Moderator Commands
  
